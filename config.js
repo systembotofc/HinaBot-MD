@@ -35,12 +35,12 @@ global.owner = [
 global.suittag = ['51936732723'];
 global.prems = ['51936732723'];
 
-global.packname = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.author = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.wm = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.titulowm = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.titulowm2 = `𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏`
-global.igfg = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
+global.packname = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.author = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.wm = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.titulowm = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.titulowm2 = `𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫`
+global.igfg = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
 global.wait = '𝙐𝙣 𝙢𝙤𝙢𝙚𝙣𝙩𝙤...';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -61,11 +61,11 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏`;
-global.gt = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.mysticbot = '𝙈𝙄𝙆𝘼𝙎𝘼 𝘽𝙊𝙏';
-global.md = 'https://chat.whatsapp.com/C0WHVT1wectIMBxcf3h96q';
-global.mysticbot = 'https://chat.whatsapp.com/C0WHVT1wectIMBxcf3h96q';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫`;
+global.gt = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.mysticbot = '𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫';
+global.md = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u';
+global.mysticbot = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u';
 global.canalbot = 'https://whatsapp.com/channel/0029VajUEsCB4hdNTg04zh1u';
 global.ig = 'https://www.instagram.com/boybenjx7';
 global.github = 'https://github.com';
