@@ -541,7 +541,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `🚀 𝙓𝙄𝘼 𝘽𝙊𝙏 𝙋𝙍𝙊 ⣿  🔮 𝙈𝙖𝙭𝙞𝙢𝙪𝙣 𝙋𝙤𝙬𝙚𝙧 𝙊𝙉𝙇𝙄𝙉𝙀 𝘿𝙪𝙧𝙖𝙣𝙩𝙚 ${uptime}`;
+  const bio = `🚀 𝑯𝑰𝑵𝑨 𝑩𝑶𝑻 - 𝑴𝑫 ⣿  🔮 𝙈𝙖𝙭𝙞𝙢𝙪𝙣 𝙋𝙤𝙬𝙚𝙧 𝙊𝙉𝙇𝙄𝙉𝙀 𝘿𝙪𝙧𝙖𝙣𝙩𝙚 ${uptime}`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
